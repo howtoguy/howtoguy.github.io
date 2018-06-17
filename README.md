@@ -7,16 +7,16 @@ Goals: Setup a SSG at work AND have it be useful to me.
 
 Options:
 
-Magnamous (NSFW)
-Howtoguy (Not that helpful to me)
-SonomaRemodeling (NSFW)
-SomethingElse (that I can convert later to either Magnamous or SonomaRemodeling)
+Magnamous (NSFW) 
+Howtoguy (Not that helpful to me) 
+SonomaRemodeling (NSFW) 
+SomethingElse (that I can convert later to either Magnamous or SonomaRemodeling) 
 
-glenuvolum.github.io
-howtoguy.gitgum.io
+glenuvolum.github.io 
+howtoguy.gitgum.io 
 
-Workflow Options:
+Workflow Options: 
 
-Use current fork from Barry Clark (Jekyll Now)
-Start fresh
-Reading Jekyll docs to see what's new
+Use current fork from Barry Clark (Jekyll Now) 
+Start fresh 
+Reading Jekyll docs to see what's new 
